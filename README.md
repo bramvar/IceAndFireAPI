@@ -28,7 +28,7 @@ The service will provide you data of all houses limited to their url, name, regi
   
 An executable JAR were build to run the application as a single command.
 
-1. Open a terminal and move to the project folder and run the following command:
+1. Open a terminal and move to the folder where the JAR where downloaded and run the following command:
 ```bash
 java -jar GOTproject-0.0.1-SNAPSHOT.jar
 ```
